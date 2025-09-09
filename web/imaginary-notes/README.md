@@ -36,7 +36,7 @@ These tokens can be used to retrieve whatever we want from the Supabase database
 
 According to the challenge description, to get the flag, we need to:
 
-    - Get the password of `username=admin` account (`I put my flag as the password to the "admin" account`).
+  - Get the password of `username=admin` account (`I put my flag as the password to the "admin" account`).
 
 We can do this using the tokens we found above. We automated this using the `solution/solution.py` python script.
 
