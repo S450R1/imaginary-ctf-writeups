@@ -46,8 +46,3 @@ If successful, the flag will be returned:
 └─$ python3 solution.py
 ictf{why_d1d_1_g1v3_u_my_@p1_k3y???}
 ```
-
-
-
-
-
